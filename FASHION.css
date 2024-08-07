@@ -1,0 +1,82 @@
+#sectionhome{
+    background-image: url("https://img.freepik.com/free-photo/unfocused-background-with-woman-clothing-store_1258-4.jpg?t=st=1720844053~exp=1720847653~hmac=5f9ec405923d010986dcece3c219ff4bdd18ad67e2d5384afde437a72be33462&w=996");
+    background-size: cover;
+}
+.bg-container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    color: rgb(243, 146, 10);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+}
+.button{
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: transparent;
+}
+
+
+#sectioncarousel{
+    background-image: url("https://img.freepik.com/free-photo/black-mulberry-paper-textured-background_53876-129520.jpg?t=st=1720847496~exp=1720851096~hmac=c4cfc4ada13c6d5c5af00c8324a23b80f8f292ba1f30f752ca4c320c82569514&w=996");
+    background-size: cover;
+}
+.container{
+    text-align: center;
+    color: white;
+}
+
+.image{
+    height: 400px;
+    padding: 30px;
+    border-radius: 50%;
+}
+.image1{
+    height: 400px;
+    margin-top: 150px;
+    border-radius: 50%;
+}
+
+#sectionsuits{
+    background-image: url("https://img.freepik.com/free-photo/cup-near-cloth-twig_23-2147811262.jpg?t=st=1720856326~exp=1720859926~hmac=c4b6ae6c2ab68ee9e8ddb0f875045205c9ce80f6e91d8d39cca658f948c12ccd&w=740");
+    background-size: cover;
+}
+
+.head{
+    color: gold;
+    text-align: center;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.head1{
+    text-align: center;
+    border: 2px solid;
+    font-weight: 200;
+    color: white;
+}
+.suits-container{
+    padding: 30px;
+}
+.card{
+    text-align: center;
+    margin: 30px;
+   
+}
+.btn1{
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
+
+
+#sectionfrocks{
+    background-image: url("https://img.freepik.com/free-photo/cup-near-cloth-twig_23-2147811262.jpg?t=st=1720856326~exp=1720859926~hmac=c4b6ae6c2ab68ee9e8ddb0f875045205c9ce80f6e91d8d39cca658f948c12ccd&w=740");
+    background-size: cover;
+    height: 100vh;
+}
+#sectiontops{
+    background-image: url("https://img.freepik.com/free-photo/dark-blue-product-background_53876-92801.jpg?t=st=1720856619~exp=1720860219~hmac=823456999ad959b9aa15c2b4a1046e63ee556975664dcd2c709d74044e5f5339&w=996");
+    background-size: cover;
+    height: 100vh;
+}
